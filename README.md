@@ -24,3 +24,5 @@ Test comment from GitHub to show synchronization
 Test comment from Azure DevOps to show synchronization
 
 test commit
+
+test commit 2
